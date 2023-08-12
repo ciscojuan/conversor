@@ -1,0 +1,39 @@
+# Conversor de Divisas - Dólares a Pesos Colombianos
+
+Este es un proyecto de una aplicación de escritorio en Java que permite convertir montos de dólares a pesos colombianos. La aplicación ha sido desarrollada en Eclipse y proporciona una interfaz gráfica intuitiva para realizar las conversiones de manera sencilla.
+
+## Características
+
+-   Conversión precisa de dólares a pesos colombianos.
+-   Interfaz gráfica fácil de usar.
+-   Actualización automática de tasas de cambio desde una fuente confiable.
+-   Soporte para decimales y números fraccionarios.
+-   Diseño modular y extensible.
+
+## Requisitos del Sistema
+
+-   Java SE Development Kit (JDK) 8 o superior instalado.
+-   Eclipse IDE para desarrollo de Java (opcional, pero recomendado).
+
+## Cómo Usar la Aplicación
+
+1.  Descarga el repositorio o clona el proyecto en tu máquina local.
+    
+2.  Abre Eclipse IDE (si estás utilizando otra herramienta, asegúrate de configurar el proyecto correctamente).
+    
+3.  Importa el proyecto en Eclipse:
+    
+    -   `Archivo` -> `Importar` -> `Proyecto Java existente`.
+    -   Selecciona la ubicación donde clonaste/descargaste el repositorio.
+    -   Sigue las instrucciones para completar la importación.
+4.  Navega a la clase principal: `Conversor.java`.
+    
+5.  Ejecuta la aplicación.
+    
+6.  Ingrese el monto en dólares que desea convertir en el campo proporcionado.
+    
+7.  Haga clic en el botón "Convertir".
+    
+8.  El resultado se mostrará en la interfaz gráfica en pesos colombianos.
+
+![CapturaConversorJava](https://i.ibb.co/9cqXwxt/2023-08-11-20-18.png)
