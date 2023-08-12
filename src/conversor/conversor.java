@@ -51,15 +51,6 @@ public class conversor extends JFrame {
 		setTitle("Conversor Alura");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 728, 444);
-		
-		JMenuBar menuBar = new JMenuBar();
-		setJMenuBar(menuBar);
-		
-		JMenu mnNewMenu = new JMenu("New menu");
-		menuBar.add(mnNewMenu);
-		
-		JMenuItem mntmNewMenuItem = new JMenuItem("New menu item");
-		mnNewMenu.add(mntmNewMenuItem);
 		contentPane = new JPanel();
 		contentPane.setBackground(new Color(192, 192, 192));
 
